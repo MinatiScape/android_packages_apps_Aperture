@@ -37,9 +37,9 @@
     <string name="qr_copy_description">复制到剪贴板</string>
     <string name="qr_icon_description">图标</string>
     <string name="qr_share_description">分享</string>
-    <string name="qr_wifi_title">连接到此 Wi-Fi 网络</string>
     <string name="qr_dpp_description">配置此设备</string>
     <string name="qr_text">文本</string>
+    <string name="qr_wifi_title">连接到此 Wi-Fi 网络</string>
     <string name="title_activity_settings">设置</string>
     <string name="general_header">常规</string>
     <string name="photos_header">照片</string>
@@ -64,6 +64,7 @@
     <string name="photo_ffc_mirror_summary">保存预览中显示的前置摄像头照片</string>
     <string name="video_stabilization_title">启用视频防抖</string>
     <string name="video_stabilization_summary">如果可用，启用视频防抖以减少录制时的抖动</string>
+    <string name="video_mirror_mode_title">启用视频镜像</string>
     <string name="processing_title">处理中</string>
     <string name="processing_info">在照片模式下，当使用 ZSL 模式时，仅考虑默认和关闭。  对于视频模式，仅考虑默认、关闭和快速。</string>
     <string name="edge_mode_title">锐化</string>
@@ -119,6 +120,7 @@
     <string name="error_do_not_disturb_mode_enabled">勿扰模式已启用。请关闭勿扰模式并重新打开应用。</string>
     <string name="error_unknown_recoverable">发现可恢复的未知错误。  请将此情况报告给开发商。</string>
     <string name="error_unknown_critical">发现严重的未知错误。  请将此情况报告给开发商。</string>
+    <string name="error_no_cameras_available">未发现设备上的相机，无法启动应用程序。</string>
     <string name="gesture_action_shutter">快门</string>
     <string name="gesture_action_zoom">缩放</string>
     <string name="gesture_action_volume">音量</string>
@@ -132,4 +134,7 @@
     <string name="camera_mode_photo">照片</string>
     <string name="camera_mode_video">视频</string>
     <string name="camera_mode_qr">扫描</string>
+    <string name="video_mirror_mode_off">关</string>
+    <string name="video_mirror_mode_on">开</string>
+    <string name="video_mirror_mode_on_ffc_only">仅前置摄像头</string>
 </resources>

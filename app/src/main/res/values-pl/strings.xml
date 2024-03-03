@@ -37,9 +37,9 @@
     <string name="qr_copy_description">Skopiuj do schowka</string>
     <string name="qr_icon_description">Ikona</string>
     <string name="qr_share_description">Udostępnij</string>
-    <string name="qr_wifi_title">Połącz z tą siecią Wi-Fi</string>
     <string name="qr_dpp_description">Skonfiguruj to urządzenie</string>
     <string name="qr_text">Tekst</string>
+    <string name="qr_wifi_title">Połącz z tą siecią Wi-Fi</string>
     <string name="title_activity_settings">Ustawienia</string>
     <string name="general_header">Ogólne</string>
     <string name="photos_header">Zdjęcia</string>
@@ -64,6 +64,7 @@
     <string name="photo_ffc_mirror_summary">Zapisywanie zdjęć z przedniego aparatu tak, jak są widoczne na podglądzie</string>
     <string name="video_stabilization_title">Włącz stabilizację wideo</string>
     <string name="video_stabilization_summary">Jeżeli możliwe, włącz stabilizację wideo, aby zredukować drgania kamery podczas nagrywania</string>
+    <string name="video_mirror_mode_title">Włącz lustrzane odbicie wideo</string>
     <string name="processing_title">Przetwarzanie</string>
     <string name="processing_info">W trybie zdjęcia, gdy używany jest tryb ZSL, brane są pod uwagę tylko wartości domyślne i wyłączone. W trybie wideo brane są pod uwagę tylko wartości domyślne, wyłączone i szybkie.</string>
     <string name="edge_mode_title">Wyostrzanie</string>
@@ -119,6 +120,7 @@
     <string name="error_do_not_disturb_mode_enabled">Tryb \"Nie przeszkadzać\" jest włączony. Wyłącz go i otwórz aplikację ponownie.</string>
     <string name="error_unknown_recoverable">Znaleziono nieznany błąd do odzyskania. Prosimy zgłosić go programistom.</string>
     <string name="error_unknown_critical">Znaleziono krytyczny, nieznany błąd. Prosimy zgłosić go programistom.</string>
+    <string name="error_no_cameras_available">Nie znaleziono żadnego aparatu w urządzeniu, dlatego nie można uruchomić aplikacji.</string>
     <string name="gesture_action_shutter">Migawka</string>
     <string name="gesture_action_zoom">Powiększenie</string>
     <string name="gesture_action_volume">Głośność</string>
@@ -132,4 +134,7 @@
     <string name="camera_mode_photo">Zdjęcie</string>
     <string name="camera_mode_video">Wideo</string>
     <string name="camera_mode_qr">Skaner</string>
+    <string name="video_mirror_mode_off">Wyłączono</string>
+    <string name="video_mirror_mode_on">Włączono</string>
+    <string name="video_mirror_mode_on_ffc_only">Tylko przedni aparat</string>
 </resources>
